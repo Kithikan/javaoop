@@ -6,6 +6,7 @@ class Pen{
 	String madeIn;
 	double price;
 	
+	
 	void write(){
 		System.out.println("This is a pen");
 	}

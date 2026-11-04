@@ -2,12 +2,9 @@ class Student {
 	int id;
 	String name;
 	
-	void setStudent(int ids, String Names){
-		  id=10;
-	
-		this.id=ids;
-		this.name=Names;		
-		System.out.println();
+	Student(int id, String name){	
+		this.id=1000;
+		this.name="kithi";		
 		
 	}
 	void getStudent(){

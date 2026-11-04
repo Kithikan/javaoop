@@ -2,7 +2,7 @@ class MainPen{
 	public static void main(String args[]){
 		
 		Pen P;
-		P=new Pen();
+		P=new Pen();//constarctor
 		System.out.println(P.height);
 		
 		P.color = "Red";
